@@ -5,7 +5,7 @@ El jefe ha pedido que creemos una función que dadao un registro (array) de usua
 ## La función
 
 1. Recibe un parámetro, un array de objetos que contiene los usuarios dados de alta en el sistema
-2. Debe devolver un array de **string**, indicando simplemente los nombres de usuario que están "offline"
+2. Debe devolver un array de **string**, indicando simplemente los nombres de usuario que están "online"
 
 ### Resolución
 
